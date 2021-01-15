@@ -4,7 +4,7 @@ class test {
 	author = "@Lodene le bg";
 
 	class controlsBackground {
-		class DA3F_Background: RscText
+		class Life_DA3F_Background: Life_RscText
 		{
 			idc = 1000;
 			x = 0.391719 * safezoneW + safezoneX;
